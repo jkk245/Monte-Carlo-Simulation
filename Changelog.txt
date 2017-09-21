@@ -1,0 +1,4 @@
+7/18/17 - made model, used APH:TSE 14-17
+
+to do:
+data is (-) skewed, find out why & rebalance normal distribution
