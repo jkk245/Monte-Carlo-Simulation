@@ -8,4 +8,4 @@ Monte Carlo Simullation Model for TSX:APH
 7/18/17 - made model, used APH:TSE 14-17
 
 To do:
-- dDta is (-) skewed, find out why & rebalance normal distribution
+- Data is (-) skewed, find out why & rebalance normal distribution
